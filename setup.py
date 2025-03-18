@@ -6,7 +6,7 @@ def get_long_description():
     return long_desc      
 
 setuptools.setup(
-    name="my_pkg",
+    name="mypkg",
     version="0.0.1",
     author="bldu",
     description="python build demo",
